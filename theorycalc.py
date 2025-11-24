@@ -1,4 +1,4 @@
-from logic import *
+from theorylogic import *
 
 def print_menu():
     print("\n--- Number Theory Toolkit ---")
