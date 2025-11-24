@@ -37,3 +37,6 @@ Test each feature manually by entering sample inputs:
 * Armstrong: 153 → True
 * Palindrome: 1221 → True
 * Fibonacci: terms = 6 → 0,1,1,2,3,5
+
+NAME:- ISHAN JAIN 
+REG NO. 25BAI11017
